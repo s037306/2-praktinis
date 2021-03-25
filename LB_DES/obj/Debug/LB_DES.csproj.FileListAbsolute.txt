@@ -1,0 +1,19 @@
+C:\Users\nerWoWs'\source\repos\LB_DES\LB_DES\bin\Debug\LB_DES.exe.config
+C:\Users\nerWoWs'\source\repos\LB_DES\LB_DES\bin\Debug\LB_DES.exe
+C:\Users\nerWoWs'\source\repos\LB_DES\LB_DES\bin\Debug\LB_DES.pdb
+C:\Users\nerWoWs'\source\repos\LB_DES\LB_DES\obj\Debug\LB_DES.csprojAssemblyReference.cache
+C:\Users\nerWoWs'\source\repos\LB_DES\LB_DES\obj\Debug\LB_DES.Form1.resources
+C:\Users\nerWoWs'\source\repos\LB_DES\LB_DES\obj\Debug\LB_DES.Properties.Resources.resources
+C:\Users\nerWoWs'\source\repos\LB_DES\LB_DES\obj\Debug\LB_DES.csproj.GenerateResource.cache
+C:\Users\nerWoWs'\source\repos\LB_DES\LB_DES\obj\Debug\LB_DES.exe
+C:\Users\nerWoWs'\source\repos\LB_DES\LB_DES\obj\Debug\LB_DES.pdb
+C:\Users\Kakarotas\Desktop\Informacijos saugumas\LB_DES\LB_DES\bin\Debug\LB_DES.exe.config
+C:\Users\Kakarotas\Desktop\Informacijos saugumas\LB_DES\LB_DES\bin\Debug\LB_DES.exe
+C:\Users\Kakarotas\Desktop\Informacijos saugumas\LB_DES\LB_DES\bin\Debug\LB_DES.pdb
+C:\Users\Kakarotas\Desktop\Informacijos saugumas\LB_DES\LB_DES\obj\Debug\LB_DES.csprojAssemblyReference.cache
+C:\Users\Kakarotas\Desktop\Informacijos saugumas\LB_DES\LB_DES\obj\Debug\LB_DES.Form1.resources
+C:\Users\Kakarotas\Desktop\Informacijos saugumas\LB_DES\LB_DES\obj\Debug\LB_DES.Properties.Resources.resources
+C:\Users\Kakarotas\Desktop\Informacijos saugumas\LB_DES\LB_DES\obj\Debug\LB_DES.csproj.GenerateResource.cache
+C:\Users\Kakarotas\Desktop\Informacijos saugumas\LB_DES\LB_DES\obj\Debug\LB_DES.csproj.CoreCompileInputs.cache
+C:\Users\Kakarotas\Desktop\Informacijos saugumas\LB_DES\LB_DES\obj\Debug\LB_DES.exe
+C:\Users\Kakarotas\Desktop\Informacijos saugumas\LB_DES\LB_DES\obj\Debug\LB_DES.pdb
